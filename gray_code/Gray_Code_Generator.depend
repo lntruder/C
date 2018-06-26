@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1526204542 source:c:\users\sikorke\desktop\sikora_michal\47_kod_graya\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"help_menu.h"
+	"check_arguments.h"
+	"display_gray.h"
+	"get_file_name.h"
+	"save_to_file.h"
+	"gen_list.h"
+
+1526158215 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\help_menu.h
+	"help_menu.c"
+
+1526201197 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\help_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1526158339 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\check_arguments.h
+	"check_arguments.c"
+
+1526202101 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\check_arguments.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1526158473 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\display_gray.h
+	"display_gray.c"
+
+1526192888 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\display_gray.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"gen_list.h"
+
+1526204285 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\gen_list.h
+	<stdio.h>
+	"gen_list.c"
+
+1526195220 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\gen_list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1526158572 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\get_file_name.h
+	"get_file_name.c"
+
+1526204700 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\get_file_name.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1526204554 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\save_to_file.h
+	"save_to_file.c"
+
+1526203889 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\save_to_file.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1526158782 c:\users\sikorke\desktop\sikora_michal\47_kod_graya\struct.h
+
+1526204542 source:c:\users\sikorke\desktop\gray_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"help_menu.h"
+	"check_arguments.h"
+	"display_gray.h"
+	"get_file_name.h"
+	"save_to_file.h"
+	"gen_list.h"
+
+1526158215 c:\users\sikorke\desktop\gray_code\help_menu.h
+	"help_menu.c"
+
+1526201197 c:\users\sikorke\desktop\gray_code\help_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1526158339 c:\users\sikorke\desktop\gray_code\check_arguments.h
+	"check_arguments.c"
+
+1526202101 c:\users\sikorke\desktop\gray_code\check_arguments.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1526158473 c:\users\sikorke\desktop\gray_code\display_gray.h
+	"display_gray.c"
+
+1526192888 c:\users\sikorke\desktop\gray_code\display_gray.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"gen_list.h"
+
+1526204285 c:\users\sikorke\desktop\gray_code\gen_list.h
+	<stdio.h>
+	"gen_list.c"
+
+1526195220 c:\users\sikorke\desktop\gray_code\gen_list.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1526158572 c:\users\sikorke\desktop\gray_code\get_file_name.h
+	"get_file_name.c"
+
+1526204700 c:\users\sikorke\desktop\gray_code\get_file_name.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1526204554 c:\users\sikorke\desktop\gray_code\save_to_file.h
+	"save_to_file.c"
+
+1526203889 c:\users\sikorke\desktop\gray_code\save_to_file.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
